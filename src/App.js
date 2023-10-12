@@ -11,7 +11,7 @@ class App extends Component {
           <h2>Welcome to React</h2>
         </div>
         <p className="App-intro">
-          Be seated while the screen is in motion<code>src/App.js</code> and save to reload. 
+          This change was made on the feture branch<code>src/App.js</code> and save to reload. 
         </p>
       </div>
     );
